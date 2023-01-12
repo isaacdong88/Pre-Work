@@ -1,0 +1,128 @@
+body {
+    background-color: rgb(204, 255, 255);
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 30px;
+    color: blue;
+}
+
+h3 {
+    text-align: center;
+    color: green;
+}
+
+#para1 {
+    font-size: 16px;
+    color: red;
+    font-style: oblique;
+}
+
+ul {
+    font-style: italic;
+}
+
+a {
+    color: purple;
+}
+
+span {
+    color: red;
+}
+
+form {
+    color: red;
+}
+
+input[type=button] {
+    color: blue;
+    padding: 3px;
+}
+
+input[type=button]:hover {
+    background-color: yellowgreen;
+    color: blue;
+    padding: 3px;
+}
+
+
+th,
+td {
+    font-style: italic;
+    color: red;
+    font-size: 16px;
+}
+
+#goals {
+    color: green;
+    font-weight: bold;
+}
+
+.subtitle {
+    font-style: italic;
+    text-decoration: underline;
+    color: blue;
+}
+
+#image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    border-radius: 10%;
+}
+
+#div1,
+#div4 {
+    background-color: aqua;
+    background-size: 100%;
+    border: dotted;
+    position: relative;
+}
+
+#div2,
+#div5 {
+    background-color: greenyellow;
+    border: dotted;
+    position: static;
+}
+
+#div3 {
+    display: block;
+    border: dotted;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    text-align: center;
+    padding: .2%;
+    background-color: yellow;
+    position: static;
+}
+
+#div6 {
+    background-color: yellow;
+    border: dotted;
+    position: static;
+}
+
+li {
+    text-align: left;
+}
+
+#table1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    table-layout: auto;
+    width: 25%;
+}
+
+
+#media1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 1000px;
+    height: 500px;
+}
